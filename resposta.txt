@@ -1,0 +1,3 @@
+Um dos problemas seria a atualização simultânea de um mesmo arquivo, 
+pois se dois computadores atualizassem o mesmo arquivo ao mesmo tempo
+o progresso seria prejudicado, mas isso seria causa de uma falha na comunicação.
